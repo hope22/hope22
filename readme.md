@@ -18,7 +18,6 @@ I'm Rick, owner of <a href="https://statuo.co.uk">Statuo</a> and <a href="https:
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img alt="Vue3" src="https://img.shields.io/badge/Vue.js-3.x-green" />
 </p>
 
 ## Current code streak
