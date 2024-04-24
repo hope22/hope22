@@ -31,6 +31,3 @@ I'm Rick, owner of <a href="https://statuo.co.uk">Statuo</a> and <a href="https:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-## Current code streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hope22)](https://git.io/streak-stats)
